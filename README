@@ -1,0 +1,4 @@
+This is a snake game writed by python and used the curses lib.
+Always you get a python with curses in linux. If you are in
+windows, you can get the curses from the website here:
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#curses
